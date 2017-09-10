@@ -35,3 +35,5 @@ EIGRP configuration using Netmiko
 ![alt tag](https://github.com/OthmaneBlial/EIGRP-configuration-using-Netmiko/blob/master/Tutorial/11.PNG)
 
 
+![alt tag](https://github.com/OthmaneBlial/EIGRP-configuration-using-Netmiko/blob/master/Tutorial/12.PNG)
+
